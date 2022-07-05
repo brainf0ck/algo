@@ -1,0 +1,5 @@
+var a, b
+set a, (input)
+set b, (input)
+
+output a + b
